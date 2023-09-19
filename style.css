@@ -15,3 +15,23 @@ img{
     width: 350px;
     margin-left: 200px;
 }
+.img1{
+    width: 170px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cabeçalho{
+    background-color: rgb(167, 131, 85);
+}
+.lista_cabeçalho{
+    display: flex;
+    margin-left: 400px;
+}
+.item_lista_cabeçalho{
+    color: rgb(133, 0, 0);
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 5px;
+}
